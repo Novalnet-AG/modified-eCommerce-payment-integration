@@ -1,5 +1,5 @@
 # NOVALNET PAYMENT MODULE FOR MODIFIED ECOMMERCE
-Novalnet payment module for modified eCommerce simplifies your daily work by automating the entire payment process, from checkout till collection. This module is designed to help you increase your sales by offering various payment methods on a one-page checkout. The module which is perfectly adjusted to the JTL-Shop with top-quality range of services of the payment provider.
+Novalnet payment module for modified eCommerce simplifies your daily work by automating the entire payment process, from checkout till collection. This module is designed to help you increase your sales by offering various payment methods on a one-page checkout. The module which is perfectly adjusted to the modified eCommerce shop with top-quality range of services of the payment provider.
 
 Novalnet payment module for modified eCommerce is available in <b>EN, DE</b>
 
