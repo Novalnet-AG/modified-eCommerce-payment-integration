@@ -25,7 +25,7 @@ Through the individuality and flexibility, you can choose which payment methods 
 
 ## More information
 Find more about modified eCommerce module on: <br>
-To test our demo shop, please visit: https://jtlshop.novalnet.de
+To test our demo shop, please visit: https://xtcmodified.novalnet.de
 
 ## Contact
 Novalnet AG<br>
