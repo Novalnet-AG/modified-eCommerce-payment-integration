@@ -24,7 +24,7 @@ Through the individuality and flexibility, you can choose which payment methods 
 * Find currently supported payment methods on https://www.novalnet.de/zahlungsabwicklung-und-online-zahlungsabwicklung-mit-der-novalnet-realisieren
 
 ## More information
-Find more about modified eCommerce module on: <br>
+Find more about modified eCommerce module on: https://www.novalnet.de/site_pdf/IG-modifiedeCommerce_1.00-2.0.3.0-r10907_novalnet_11.1.4.pdf<br>
 To test our demo shop, please visit: https://xtcmodified.novalnet.de
 
 ## Contact
